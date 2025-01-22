@@ -29,7 +29,7 @@ This project implements an IoT Sensor Data Monitoring System using an ESP32 micr
 - HTML/CSS for front-end
 
 ## Project Structure
-![Screenshot 2025-01-22 234340](https://github.com/user-attachments/assets/7db2c8f1-f9ee-4352-9c0a-b97de71158bd)
+![Screenshot 2025-01-22 234711](https://github.com/user-attachments/assets/cc5378f3-3cb2-4a41-9b9e-330517e33f86)
 
 ## Usage
 - Power on the ESP32 to begin collecting sensor data.
