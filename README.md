@@ -39,6 +39,3 @@ This project implements an IoT Sensor Data Monitoring System using an ESP32 micr
 ## Contributing
 Contributions are welcome! If you'd like to contribute, please fork the repository and create a pull request.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
